@@ -1,5 +1,0 @@
-if _G.Key == _G.Key then
-    loadstring(game:HttpGet"https://raw.githubusercontent.com/okuhubxx/xSokuHub.BloxFruits17.3/main/README.md")()
-elseif _G.KaiTun_Vika == _G.KaiTun_Vika then
-    loadstring(game:HttpGet(('https://raw.githubusercontent.com/SevenZeroX/KaiTun/main/KaiTun.exe')))()
-end
